@@ -1,0 +1,15 @@
+# Environments
+.venv/
+.uv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and macOS
+.vscode/
+.DS_Store
